@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  basename : "/byte-plus-plus"
+  basename : "/x"
 })
