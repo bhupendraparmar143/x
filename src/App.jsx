@@ -29,8 +29,8 @@ const router = createBrowserRouter([
         path: "/contact",
         element:<Contact />,
       },]
-  }]
-  // { basename: "/byte-plus-plus" } 
+  }],
+  { basename: "/x" } 
 )
 
 function App() {
